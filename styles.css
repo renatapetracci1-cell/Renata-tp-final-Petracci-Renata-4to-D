@@ -1,4 +1,4 @@
-/* ----- GENERAL ----- */
+
 * {
   margin: 0;
   padding: 0;
@@ -12,7 +12,7 @@ body {
   line-height: 1.6;
 }
 
-/* ----- HEADER (encabezado) ----- */
+
 header {
   background-color: #B23A2E;
   color: #FFF8F0;
@@ -117,7 +117,7 @@ p {
   margin: 0 15px 10px 0;
 }
 
-/* ----- TARJETAS ----- */
+
 .tarjetas {
   display: flex;
   flex-wrap: wrap;
@@ -149,7 +149,7 @@ p {
   font-size: 14px;
 }
 
-/* ----- BLOQUE DESTACADO ----- */
+
 .destacado {
   background-color: #7A9E5C;
   color: #FFF8F0;
@@ -162,7 +162,7 @@ p {
   border-bottom: 3px solid #FFF8F0;
 }
 
-/* ----- BOTONES ----- */
+
 .boton {
   display: inline-block;
   background-color: #E0963C;
@@ -178,7 +178,7 @@ p {
   background-color: #B23A2E;
 }
 
-/* ----- LISTAS ----- */
+
 .lista-tips {
   margin-left: 25px;
 }
@@ -187,7 +187,7 @@ p {
   margin-bottom: 10px;
 }
 
-/* ----- TABLA ----- */
+
 .tabla {
   width: 100%;
   border-collapse: collapse;
@@ -206,7 +206,7 @@ p {
   font-size: 14px;
 }
 
-/* ----- VIDEO ----- */
+
 .video {
   text-align: center;
 }
@@ -219,7 +219,7 @@ p {
   border-radius: 10px;
 }
 
-/* ----- FORMULARIO ----- */
+
 .formulario {
   max-width: 500px;
 }
